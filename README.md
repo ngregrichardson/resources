@@ -2,10 +2,21 @@
 An ever-growing list of my favorite blogs, courses, libraries, and developers.
 
 ## sections
+- [articles](https://github.com/ngregrichardson/resources/blob/master/README.md#articles)
 - [blogs](https://github.com/ngregrichardson/resources/blob/master/README.md#blogs)
 - [courses](https://github.com/ngregrichardson/resources/blob/master/README.md#courses)
 - [developers/authors](https://github.com/ngregrichardson/resources/blob/master/README.md#developersauthors)
 - [libraries](https://github.com/ngregrichardson/resources/blob/master/README.md#libraries)
+
+## articles
+- [An Introduction to Shaders ](https://frontend.horse/issues/8/)
+- [Why I built a new app for practicing keyboard shortcuts](https://tkainrad.dev/posts/why-i-built-a-new-app-for-practicing-keyboard-shortcuts/)
+- [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
+- [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react)
+- [I created the exact same app in React and Vue. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56)
+- [CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+- [Javascript Visualized: Promise & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+- [Full Guide to Website Accessibility and ADA Compliance](https://pixelplex.io/blog/guide-to-website-accessibility-and-ada-compliance/)
 
 ## blogs
 - [Sébastien Lorber](https://sebastienlorber.com/) | React/React Native focused posts with a focus on the latest and greatest Javascript features
