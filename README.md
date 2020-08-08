@@ -2,10 +2,10 @@
 An ever-growing list of my favorite blogs, courses, libraries, and developers.
 
 ## sections
-- blogs
-- courses
-- developers/authors
-- libraries
+- [blogs](https://github.com/ngregrichardson/resources/blob/master/README.md#blogs)
+- [courses](https://github.com/ngregrichardson/resources/blob/master/README.md#courses)
+- [developers/authors](https://github.com/ngregrichardson/resources/blob/master/README.md#developersauthors)
+- [libraries](https://github.com/ngregrichardson/resources/blob/master/README.md#libraries)
 
 ## blogs
 - [Sébastien Lorber](https://sebastienlorber.com/) | React/React Native focused posts with a focus on the latest and greatest Javascript features
@@ -40,3 +40,7 @@ An ever-growing list of my favorite blogs, courses, libraries, and developers.
 - [Satyajit Sahoo](https://twitter.com/satya164/) | A front-end developer at Callstack, core developer for React Navigation
 - [Evan Bacon](https://evanbacon.dev/) | Lead of Expo web development
 - [Brent Vatne](https://twitter.com/notbrent/) | Developer for Expo and React Native
+
+
+## libraries
+- TBD
