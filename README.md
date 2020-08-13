@@ -30,6 +30,7 @@ An ever-growing list of my favorite blogs, courses, libraries, and developers.
 - [Refactoring UI](https://refactoringui.com/) | UI/UX tips, tricks, and shortcuts
 - [William Candillion](https://medium.com/@wcandillon/) | Everything React and React Native with a focus on animations and Expo
 - [Evan Bacon](https://evanbacon.dev/) | React Native and Expo based talks
+- [Sara Vieira](https://iamsaravieira.com/blog/) | Developer lifestyle posts mixed with a healthy dose of simply explained tech
 
 ## courses
 - [Oh Shit, Git!?!](https://ohshitgit.com/) | An easy guide to un-fucking your git commands 
@@ -51,6 +52,7 @@ An ever-growing list of my favorite blogs, courses, libraries, and developers.
 - [Satyajit Sahoo](https://twitter.com/satya164/) | A front-end developer at Callstack, core developer for React Navigation
 - [Evan Bacon](https://evanbacon.dev/) | Lead of Expo web development
 - [Brent Vatne](https://twitter.com/notbrent/) | Developer for Expo and React Native
+- [Sara Vieira](https://iamsaravieira.com/) | Front End Developer for CodeSandbox
 
 
 ## libraries
